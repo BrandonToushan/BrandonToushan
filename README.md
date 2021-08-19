@@ -1,6 +1,6 @@
 ### Hey! 👋
 #### 📫 How to reach me: brandontoushan@gmail.com or https://apexadvisory.ca/
-#### 💬 Hit me up about: Humanitarian tech, data viz, financial analytics & ML in general
+#### 💬 Hit me up about: Humanitarian tech, data viz, financial analytics and/or ML in general
 #### 🔭 I’m currently busy with my consulting day job + rebuilding my personal website + moving to TO 😄
 
 <!--
