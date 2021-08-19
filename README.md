@@ -1,7 +1,7 @@
 ### Hey! 👋
 #### 📫 How to reach me: brandontoushan@gmail.com
-#### 💬 Ask me about: Humanitarian tech, data viz and financial machine learning
-#### 🔭 I’m currently busy with my consulting day job + rebuilding my personal website.
+#### 💬 Ask me about: Humanitarian tech, data viz, financial ML and Apex
+#### 🔭 I’m currently busy with my consulting day job + rebuilding my personal website
 
 <!--
 **BrandonToushan/BrandonToushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
